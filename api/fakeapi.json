@@ -1,0 +1,192 @@
+{
+    "cards" : [
+        {
+            "_id" : 1,
+            "name" : "Sales",
+            "icon" : "bi bi-cart",
+            "amount" : 145,
+            "percentage" : 0.12,
+            "active" : true
+        },
+        {
+            "_id" : 2,
+            "name" : "Revenue",
+            "icon" : "bi bi-currency-dollar",
+            "amount" : 3246,
+            "percentage" : 0.08,
+            "active" : false
+        },
+        {
+            "_id" : 3,
+            "name" : "Customers",
+            "icon" : "bi bi-people",
+            "amount" : 1244,
+            "percentage" : -0.11,
+            "active" : false
+        }
+    ],
+
+    "news" : [
+        {
+            "_id" : 1,
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV0Vfp8RLS1APOEGu7h2cs6m0TR53WXx9YrQ&s",
+            "title" : "Nihil blanditiis at in nihil autem",
+            "subtitle" : "Sit recusandae non asperatur laboriosam. Quia enim elogeod sad ad y hurancan",
+            "category" : "abc"
+        },
+        {
+            "_id" : 2,
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV0Vfp8RLS1APOEGu7h2cs6m0TR53WXx9YrQ&s",
+            "title" : "Nihil blanditiis at in nihil autem",
+            "subtitle" : "Sit recusandae non asperatur laboriosam. Quia enim elogeod sad ad y hurancan",
+            "category" : "abc"
+        },
+        {
+            "_id" : 3,
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV0Vfp8RLS1APOEGu7h2cs6m0TR53WXx9YrQ&s",
+            "title" : "Nihil blanditiis at in nihil autem",
+            "subtitle" : "Sit recusandae non asperatur laboriosam. Quia enim elogeod sad ad y hurancan",
+            "category" : "abc"
+        },
+        {
+            "_id" : 4,
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV0Vfp8RLS1APOEGu7h2cs6m0TR53WXx9YrQ&s",
+            "title" : "Nihil blanditiis at in nihil autem",
+            "subtitle" : "Sit recusandae non asperatur laboriosam. Quia enim elogeod sad ad y hurancan",
+            "category" : "abc"
+        },
+        {
+            "_id" : 5,
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV0Vfp8RLS1APOEGu7h2cs6m0TR53WXx9YrQ&s",
+            "title" : "Nihil blanditiis at in nihil autem",
+            "subtitle" : "Sit recusandae non asperatur laboriosam. Quia enim elogeod sad ad y hurancan",
+            "category" : "abc"
+        }
+    ],
+
+    "topselling" : [
+        {
+            "_id" : 1,
+            "preview": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAASFBMVEVHcEz3kxr3kxr3kxr3kxr3kxr3kxr3kxr3kxr3jAD3khX92734pU34nDP////95tL80qz7xZT+8ub5r2T3kQ33kxr3kxr6uXuN5P8aAAAAF3RSTlMAL2qjBor/vtb////////////////2JbbIuikAAAD7SURBVHgBhZJHkoUwDAVNEsjGz9n//jcdTGmIE3rbyiV10vXDRt+pF+NEB9N4dz3d6K9upgfz6RYSmEnTzvLI08TG8Cp2vvezzHAMz5e+o1QMiB4hIWUJbjPLDjk57CTWstEmC4nlCLQAR2KVqiRoAhxrD0Tp2p3r8wcIrBmApPZqOqTfZOYEgL+bDoeMED4iB5HSMhmgLSry2IRTa8ktPxxle9kyOGBl3cZyx43qpWFYyUbAiKxyBL1nCmumRjnOl9nCm9uwk9o4Dm89mCyLo+aOkQzHyFo/XmWWwtqm/HqU40306ZZ/H+yf1xSmQkKZ1JvaT8Mw9VUdfAG5uBUIY0iOdgAAAABJRU5ErkJggg==",
+            "name" : "Promedex",
+            "price" : 64,
+            "sold" : 124
+        },
+        {
+            "_id" : 2,
+            "preview": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAASFBMVEVHcEz3kxr3kxr3kxr3kxr3kxr3kxr3kxr3kxr3jAD3khX92734pU34nDP////95tL80qz7xZT+8ub5r2T3kQ33kxr3kxr6uXuN5P8aAAAAF3RSTlMAL2qjBor/vtb////////////////2JbbIuikAAAD7SURBVHgBhZJHkoUwDAVNEsjGz9n//jcdTGmIE3rbyiV10vXDRt+pF+NEB9N4dz3d6K9upgfz6RYSmEnTzvLI08TG8Cp2vvezzHAMz5e+o1QMiB4hIWUJbjPLDjk57CTWstEmC4nlCLQAR2KVqiRoAhxrD0Tp2p3r8wcIrBmApPZqOqTfZOYEgL+bDoeMED4iB5HSMhmgLSry2IRTa8ktPxxle9kyOGBl3cZyx43qpWFYyUbAiKxyBL1nCmumRjnOl9nCm9uwk9o4Dm89mCyLo+aOkQzHyFo/XmWWwtqm/HqU40306ZZ/H+yf1xSmQkKZ1JvaT8Mw9VUdfAG5uBUIY0iOdgAAAABJRU5ErkJggg==",
+            "name" : "Paratecamol",
+            "price" : 46,
+            "sold" : 98
+        },
+        {
+            "_id" : 3,
+            "preview": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAASFBMVEVHcEz3kxr3kxr3kxr3kxr3kxr3kxr3kxr3kxr3jAD3khX92734pU34nDP////95tL80qz7xZT+8ub5r2T3kQ33kxr3kxr6uXuN5P8aAAAAF3RSTlMAL2qjBor/vtb////////////////2JbbIuikAAAD7SURBVHgBhZJHkoUwDAVNEsjGz9n//jcdTGmIE3rbyiV10vXDRt+pF+NEB9N4dz3d6K9upgfz6RYSmEnTzvLI08TG8Cp2vvezzHAMz5e+o1QMiB4hIWUJbjPLDjk57CTWstEmC4nlCLQAR2KVqiRoAhxrD0Tp2p3r8wcIrBmApPZqOqTfZOYEgL+bDoeMED4iB5HSMhmgLSry2IRTa8ktPxxle9kyOGBl3cZyx43qpWFYyUbAiKxyBL1nCmumRjnOl9nCm9uwk9o4Dm89mCyLo+aOkQzHyFo/XmWWwtqm/HqU40306ZZ/H+yf1xSmQkKZ1JvaT8Mw9VUdfAG5uBUIY0iOdgAAAABJRU5ErkJggg==",
+            "name" : "Panadol",
+            "price" : 46,
+            "sold" : 98
+        },
+        {
+            "_id" : 4,
+            "preview": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAASFBMVEVHcEz3kxr3kxr3kxr3kxr3kxr3kxr3kxr3kxr3jAD3khX92734pU34nDP////95tL80qz7xZT+8ub5r2T3kQ33kxr3kxr6uXuN5P8aAAAAF3RSTlMAL2qjBor/vtb////////////////2JbbIuikAAAD7SURBVHgBhZJHkoUwDAVNEsjGz9n//jcdTGmIE3rbyiV10vXDRt+pF+NEB9N4dz3d6K9upgfz6RYSmEnTzvLI08TG8Cp2vvezzHAMz5e+o1QMiB4hIWUJbjPLDjk57CTWstEmC4nlCLQAR2KVqiRoAhxrD0Tp2p3r8wcIrBmApPZqOqTfZOYEgL+bDoeMED4iB5HSMhmgLSry2IRTa8ktPxxle9kyOGBl3cZyx43qpWFYyUbAiKxyBL1nCmumRjnOl9nCm9uwk9o4Dm89mCyLo+aOkQzHyFo/XmWWwtqm/HqU40306ZZ/H+yf1xSmQkKZ1JvaT8Mw9VUdfAG5uBUIY0iOdgAAAABJRU5ErkJggg==",
+            "name" : "Flumicilin",
+            "price" : 32,
+            "sold" : 63
+        },
+        {
+            "_id" : 5,
+            "preview": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAASFBMVEVHcEz3kxr3kxr3kxr3kxr3kxr3kxr3kxr3kxr3jAD3khX92734pU34nDP////95tL80qz7xZT+8ub5r2T3kQ33kxr3kxr6uXuN5P8aAAAAF3RSTlMAL2qjBor/vtb////////////////2JbbIuikAAAD7SURBVHgBhZJHkoUwDAVNEsjGz9n//jcdTGmIE3rbyiV10vXDRt+pF+NEB9N4dz3d6K9upgfz6RYSmEnTzvLI08TG8Cp2vvezzHAMz5e+o1QMiB4hIWUJbjPLDjk57CTWstEmC4nlCLQAR2KVqiRoAhxrD0Tp2p3r8wcIrBmApPZqOqTfZOYEgL+bDoeMED4iB5HSMhmgLSry2IRTa8ktPxxle9kyOGBl3cZyx43qpWFYyUbAiKxyBL1nCmumRjnOl9nCm9uwk9o4Dm89mCyLo+aOkQzHyFo/XmWWwtqm/HqU40306ZZ/H+yf1xSmQkKZ1JvaT8Mw9VUdfAG5uBUIY0iOdgAAAABJRU5ErkJggg==",
+            "name" : "Lupred",
+            "price" : 79,
+            "sold" : 41
+        }
+    ],
+
+    "recentsales" : [
+        {
+            "_id" : 1,
+            "number" : "#2457",
+            "customer" : "Brandon",
+            "product" : "paratecamol",
+            "price" : 23,
+            "status" : "Approved"
+        },
+        {
+            "_id" : 2,
+            "number" : "#2237",
+            "customer" : "Kuwi",
+            "product" : "paratecamol",
+            "price" : 12,
+            "status" : "Pending"
+        },
+        {
+            "_id" : 3,
+            "number" : "#1227",
+            "customer" : "Kaka",
+            "product" : "paratecamol",
+            "price" : 33,
+            "status" : "Rejected"
+        },
+        {
+            "_id" : 4,
+            "number" : "#2557",
+            "customer" : "Brandon",
+            "product" : "paratecamol",
+            "price" : 3,
+            "status" : "Rejected"
+        },
+        {
+            "_id" : 5,
+            "number" : "#1257",
+            "customer" : "Brandon",
+            "product" : "paratecamol",
+            "price" : 20,
+            "status" : "Approved"
+        }
+    ],
+
+    "recentactivity" : [
+        {
+            "_id" : 1,
+            "time" : "32 min",
+            "color" : "text-success",
+            "content" : "Teqiala magareya sweet memosa barate",
+            "highlight" : "espaltio mageuaaw"
+        },
+        {
+            "_id" : 2,
+            "time" : "52 min",
+            "color" : "text-danger",
+            "content" : "Teqiala magareya sweet memosa barate",
+            "highlight" : ""
+        },
+        {
+            "_id" : 3,
+            "time" : "2 hrs",
+            "color" : "text-primary",
+            "content" : "Teqiala magareya sweet memosa barate",
+            "highlight" : ""
+        },
+        {
+            "_id" : 4,
+            "time" : "1 day",
+            "color" : "text-info",
+            "content" : "Teqiala magareya sweet memosa barate",
+            "highlight" : ""
+        },
+        {
+            "_id" : 5,
+            "time" : "2 day",
+            "color" : "text-warning",
+            "content" : "Teqiala magareya sweet memosa barate",
+            "highlight" : ""
+        },
+        {
+            "_id" : 6,
+            "time" : "4 weeks",
+            "color" : "text-muted",
+            "content" : "Teqiala magareya sweet memosa barate",
+            "highlight" : ""
+        }
+    ]
+}
